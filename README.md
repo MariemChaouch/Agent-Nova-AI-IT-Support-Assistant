@@ -1,4 +1,4 @@
-# ⚡ Agent Nova — IT Support IZEN
+# Agent Nova — IT Support IZEN
 
 Agent IA actif de support IT pour IZEN (200 employés, Tunis).
 
@@ -15,11 +15,11 @@ Interface Streamlit  →  FastAPI Backend  →  LangChain + Ollama (Mistral)  �
 
 | Catégorie | Articles | Incidents couverts |
 |-----------|----------|--------------------|
-| 🔑 Accès & Mots de passe | 1 | ~15/jour |
-| 🌐 VPN & Réseau | 1 | ~10/jour |
-| 💻 Logiciels | 1 | ~8/jour |
-| 🖥️ Matériel | 1 | ~7/jour |
-| 🛡️ Sécurité | 1 | ~5/jour |
+|  Accès & Mots de passe | 1 | ~15/jour |
+|  VPN & Réseau | 1 | ~10/jour |
+|  Logiciels | 1 | ~8/jour |
+|  Matériel | 1 | ~7/jour |
+| Sécurité | 1 | ~5/jour |
 
 ## Flux de traitement
 
@@ -27,8 +27,8 @@ Interface Streamlit  →  FastAPI Backend  →  LangChain + Ollama (Mistral)  �
 2. **Nova** analyse l'intention (NLP/LLM)
 3. **Recherche RAG** dans la KB IT
 4. **Décision** :
-   - ✅ Solution trouvée → Réponse étape par étape + audio
-   - ❌ Pas de solution → Ticket `IZN-XXXX` créé + email au dept IT
+   - Solution trouvée → Réponse étape par étape + audio
+   -  Pas de solution → Ticket `IZN-XXXX` créé + email au dept IT
 
 ## Installation
 
