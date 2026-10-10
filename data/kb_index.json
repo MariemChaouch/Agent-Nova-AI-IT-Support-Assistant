@@ -1,0 +1,46 @@
+{
+  "generated_at": "2026-05-15T18:27:03.063510",
+  "total_docs": 5,
+  "documents": [
+    {
+      "source": "F:\\projet_nova_izen\\projet_km\\knowledge_base\\it_support\\acces_mots_de_passe.md",
+      "type": "text",
+      "filename": "acces_mots_de_passe.md",
+      "category": "it_support",
+      "preview": "# BASE DE CONNAISSANCES IT — Accès & Mots de Passe\n# Source : Support IT IZEN\n# Version : 1.0 | Catégorie : 🔑 Accès & Mots de passe\n\n---\n\n## 1. RÉINITIALISATION DE MOT DE PASSE WINDOWS / ACTIVE DIRECT",
+      "length": 2234
+    },
+    {
+      "source": "F:\\projet_nova_izen\\projet_km\\knowledge_base\\it_support\\logiciels.md",
+      "type": "text",
+      "filename": "logiciels.md",
+      "category": "it_support",
+      "preview": "# BASE DE CONNAISSANCES IT — Logiciels\n# Source : Support IT IZEN\n# Version : 1.0 | Catégorie : 💻 Logiciels\n\n---\n\n## 1. MICROSOFT OFFICE — CRASH / BLOCAGE\n\n### Office ne s'ouvre pas / plante au démarr",
+      "length": 2557
+    },
+    {
+      "source": "F:\\projet_nova_izen\\projet_km\\knowledge_base\\it_support\\materiel.md",
+      "type": "text",
+      "filename": "materiel.md",
+      "category": "it_support",
+      "preview": "# BASE DE CONNAISSANCES IT — Matériel\n# Source : Support IT IZEN\n# Version : 1.0 | Catégorie : 🖥️ Matériel\n\n---\n\n## 1. PC LENT — DIAGNOSTIC ET OPTIMISATION\n\n### Causes fréquentes\n- Trop de programmes ",
+      "length": 2500
+    },
+    {
+      "source": "F:\\projet_nova_izen\\projet_km\\knowledge_base\\it_support\\securite.md",
+      "type": "text",
+      "filename": "securite.md",
+      "category": "it_support",
+      "preview": "# BASE DE CONNAISSANCES IT — Sécurité IT\n# Source : Support IT IZEN\n# Version : 1.0 | Catégorie : 🛡️ Sécurité\n\n---\n\n## 1. PHISHING — RECONNAÎTRE ET RÉAGIR\n\n### Comment reconnaître un email de phishing",
+      "length": 3005
+    },
+    {
+      "source": "F:\\projet_nova_izen\\projet_km\\knowledge_base\\it_support\\vpn_reseau.md",
+      "type": "text",
+      "filename": "vpn_reseau.md",
+      "category": "it_support",
+      "preview": "# BASE DE CONNAISSANCES IT — VPN & Réseau\n# Source : Support IT IZEN\n# Version : 1.0 | Catégorie : 🌐 VPN & Réseau\n\n---\n\n## 1. CISCO ANYCONNECT — CONNEXION VPN\n\n### Installation (première fois)\n1. Télé",
+      "length": 2470
+    }
+  ]
+}
